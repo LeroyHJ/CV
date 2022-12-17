@@ -15,7 +15,7 @@ I am currently looking and open to joining a lovely tech team in London or anywh
 | ---------------------------- | ----------------- | ----------------- |
 | [**Game of Games**](https://github.com/LeroyHJ/game-of-games) | A game with multiple mini-games built with a custome made game engine | HTML, CSS, Javascript, Jest |
 | [ **Acebook** ](https://github.com/LeroyHJ/acebook)| A social media app where you can create an account, post pictures, messages and like them | Express.js, Cypress, Node.js, Handlebars, Javascript, MongoDB, Jest|
-| [ **MakersBnB** ](https://github.com/iniffur/makersbnb-ruby-seed) | A hosting where you can book places and make a listing of properties you would like to rent out on MakersBnb| Ruby, Sinatra, PostgreSQL, ERB, RSpec |
+| [ **MakersBnB** ](https://github.com/iniffur/makersbnb-ruby-seed) | A hosting app where you can book places and make a listing of properties you would like to rent out on MakersBnb| Ruby, Sinatra, PostgreSQL, ERB, RSpec |
 
 
 ## Work Experience

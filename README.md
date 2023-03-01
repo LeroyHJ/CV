@@ -81,4 +81,4 @@ Big fan of:
 - Martial Arts
 - Building computers and keeping up with new tech
 - Travelling
-- Experiening new things
+- Experiencing new things

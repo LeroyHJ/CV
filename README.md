@@ -18,6 +18,28 @@ I am currently looking and open to joining a lovely tech team in London or anywh
 | [ **MakersBnB** ](https://github.com/iniffur/makersbnb-ruby-seed) | A hosting app where you can book places and make a listing of properties you would like to rent out on MakersBnb| Ruby, Sinatra, PostgreSQL, ERB, RSpec |
 
 
+## Education
+
+#### Makers Academy (august 2022 - november 2022)
+
+A 16 week highly selective full stack bootcamp focused on:
+
+- Test Driven Development, pair programming
+- Problem solving, independent effecient learning
+- Improving day by day as a developer
+- Object Oriented Programming & software design
+- Agile and SOLID principles
+- Technologies used: Ruby, Sinatra, SQL, JavaScript, Express/Node.js, HTML, CSS, RSpec, Jest, Cypress, PostgreSQL, MongoDB
+
+#### Southgate College (September 2012 - July 2014)
+
+National Diploma in Automotive Engineering
+
+#### Basketball Coach
+
+Experienced basketball coach teaching the fundementals of basketball to advanced high level skills from primary school kids to adults. Going from secondary school teams to highly competitive college teams.
+
+
 ## Experience
 
 **Lidl** (July 2015 - Current)  
@@ -49,29 +71,6 @@ Starting from my teenage years joining various basketball teams and playing spor
 #### Discipline
 
 Since my teenage years striving to become the best basketball player i could be, I had alot of motivation and passion for the sport where i spent alot of hours daily practicing and improving my game. But there were still days when the training became repetitive, motivation was not high, i just coudnt deal with the thought of someone somewhere else outworking me to achieve the same goals so i still went and did the training. This in essence created consistency in my training and improvement in my basketball development/skills. Fast forward 3months of hard work and consistency i finally reaped the fruits of my labour, saw and felt the improvement of my training. Becoming one of the best players of all teams i joined there after, I knew this was only because i had developed a discipline of still going forward on days when i didnt feel like it. When ever i make a plan to achieve something i reflect on this time of my life to execute the same level of discipline.
-
-
-
-## Education
-
-#### Makers Academy (august 2022 - november 2022)
-
-A 16 week highly selective full stack bootcamp focused on:
-
-- Test Driven Development, pair programming
-- Problem solving, independent effecient learning
-- Improving day by day as a developer
-- Object Oriented Programming & software design
-- Agile and SOLID principles
-- Technologies used: Ruby, Sinatra, SQL, JavaScript, Express/Node.js, HTML, CSS, RSpec, Jest, Cypress, PostgreSQL, MongoDB
-
-#### Southgate College (September 2012 - July 2014)
-
-National Diploma in Automotive Engineering
-
-#### Basketball Coach
-
-Experienced basketball coach teaching the fundementals of basketball to advanced high level skills from primary school kids to adults. Going from secondary school teams to highly competitive college teams.
 
 ## Hobbies
 

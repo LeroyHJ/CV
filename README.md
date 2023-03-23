@@ -18,7 +18,7 @@ I am currently looking and open to joining a lovely tech team in London or anywh
 | [ **MakersBnB** ](https://github.com/iniffur/makersbnb-ruby-seed) | A hosting app where you can book places and make a listing of properties you would like to rent out on MakersBnb| Ruby, Sinatra, PostgreSQL, ERB, RSpec |
 
 
-## Work Experience
+## Experience
 
 **Lidl** (July 2015 - Current)  
 Customer Assistant

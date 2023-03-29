@@ -1,6 +1,6 @@
 ## Leroy Jallow
 
-[LinkedIn](https://www.linkedin.com/in/leroy-jallow-06546a215/) | [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Interests](#interests) | [Education](#education)
+[LinkedIn](https://www.linkedin.com/in/leroy-jallow-06546a215/) | [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | 
 
 A full stack developer looking to expand and excercise his passion for front end and full stack development.
 
